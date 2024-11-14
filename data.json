@@ -1,0 +1,217 @@
+{
+    "name": "Vishal Bhatia",
+    "skills_description": [
+        "Front End Developer",
+        "Programmer"
+    ],
+    "github_url": "#",
+    "about": "Hi, I’m Vishal Bhatia, a Computer Science student passionate about developing user-friendly applications and enhancing digital experiences. With a strong interest in modern technologies, I focus on creating solutions that make a difference. I love working on projects that combine creativity with problem-solving, always aiming to deliver meaningful results.",
+    "skills": {
+        "front_end": [
+            {
+                "skill": "HTML",
+                "image": "html"
+            },
+            {
+                "skill": "CSS",
+                "image": "css"
+            },
+            {
+                "skill": "JavaScript",
+                "image": "js"
+            },
+            {
+                "skill": "React Js",
+                "image": "react"
+            },
+            {
+                "skill": "Bootstrap",
+                "image": "bootstrap"
+            },
+            {
+                "skill": "Tailwind",
+                "image": "tailwind"
+            },
+            {
+                "skill": "Redux",
+                "image": "redux"
+            }
+        ],
+        "back_end": [
+            {
+                "skill": "Node Js",
+                "image": "nodejs"
+            },
+            {
+                "skill": "Express Js",
+                "image": "express"
+            },
+            {
+                "skill": "MySQL",
+                "image": "mysql"
+            },
+            {
+                "skill": "MongoDB",
+                "image": "mongodb"
+            },
+            {
+                "skill": "PHP",
+                "image": "php"
+            }
+        ],
+        "other": [
+            {
+                "skill": "Git",
+                "image": "git"
+            },
+            {
+                "skill": "GitHub",
+                "image": "github"
+            },
+            {
+                "skill": "VS Code",
+                "image": "vscode"
+            },
+            {
+                "skill": "Postman",
+                "image": "postman"
+            },
+            {
+                "skill": "C++",
+                "image": "cpp"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "project_name": "Weather APP",
+            "project_image": "weather",
+            "project_url": "https://github.com/VishalBhatia033/Weather-and-New-Web-app",
+            "project_description":"A weather forecasting web app built with React.js that provides real-time weather updates based on the user's live location. The app integrates with a weather API to display current conditions, forecasts, and detailed weather data. It features automatic location detection using the Geolocation API and handles API data fetching and errors for a smooth user experience.",
+            "technologies_used": [
+                "react",
+                "HTML",
+                "CSS",
+                "Tailwind CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "project_name": "Resturant Management System",
+            "project_image": "resturant",
+            "project_url": "https://github.com/VishalBhatia033/restaurant-management-system",
+            "project_description":"A Restaurant Management System built with PHP and MySQL that offers food delivery, table booking, and an admin panel. Customers can place orders, book tables, while restaurant staff can manage orders, customer data, and menu updates via an intuitive backend dashboard.",
+            "technologies_used": [
+                "PHP",
+                "HTML",
+                "CSS",
+                "MYSQL",
+                "JavaScript"
+            ]
+        },
+        {
+            "project_name": "Covid 19 Tracker",
+            "project_image": "covid",
+            "project_url": "https://github.com/VishalBhatia033/covid19-tracker",
+            "project_description":"A COVID-19 Tracker built with JavaScript and API integration that provides real-time global and country-specific data on confirmed cases, recoveries, and deaths. The app fetches live statistics from external APIs and features an interactive, responsive interface for users to easily access up-to-date information.",
+            "technologies_used": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "project_name": "Random password generator",
+            "project_image": "passwordGenerator",
+            "project_url": "https://github.com/VishalBhatia033/password-generator",
+            "project_description":"A Password Generator built with React.js that allows users to create strong, random passwords with customizable options like length, character types, and symbols. It features a user-friendly interface and the ability to copy generated passwords to the clipboard for easy use.",
+            "technologies_used": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React JS"
+            ]
+        },
+        {
+            "project_name": "TODO Web App",
+            "project_image": "todo",
+            "project_url": "https://github.com/VishalBhatia033/todo",
+            "project_description":"A To-Do List app built with React.js that allows users to add, edit, delete, and mark tasks as complete. It uses local storage to persist tasks across sessions, ensuring that data is saved even after a page refresh. The app offers a simple, responsive interface for managing tasks efficiently.",
+            "technologies_used": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React JS"
+            ]
+        },
+        {
+            "project_name": "Movie Ticket Booking Web App",
+            "project_image": "movieTicketBooking",
+            "project_url": "https://github.com/VishalBhatia033/movie-ticket-booking-system",
+            "project_description":"A Movie Ticket Booking System created with PHP and MySQL that allows users to browse movies, select showtimes, choose seats, and book tickets online. It features for managing movie listings, showtimes, and bookings. The system provides a smooth booking experience for customers and efficient management for administrators.",
+            "technologies_used": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "PHP",
+                "MYSQL"
+            ]
+        },
+        {
+            "project_name": "Student Registration Portal",
+            "project_image": "SRS",
+            "project_url": "https://github.com/VishalBhatia033/student-registration-portal",
+            "project_description":"A Student Registration Portal created with PHP and MySQL that allows students to register for courses, manage profiles, and track their registration status. It features an admin panel for managing student data and course offerings, streamlining the registration process for both students and administrators.",
+            "technologies_used": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "PHP",
+                "MYSQL"
+            ]
+        }
+    ],
+    "education":[
+        {
+            "type":"Internship",
+            "institution_name":"National Institute of Electronics and Information Technology Chandigarh",
+            "year":"sep,2024-Present",
+            "grade":"",
+            "about":"I am currently interning at NIELIT Chandigarh, where I am gaining hands-on experience in software development, web technologies, and database management. The internship allows me to apply my skills in real-world projects while learning from industry professionals."
+        },
+        {
+            "type":"MCA (Master of Computer Applications)",
+            "institution_name":"Career Point University, Hamirpur",
+            "year":"2022 - 2024",
+            "grade":" 9.0",
+            "about":"My MCA journey was an enriching experience where I gained in-depth knowledge of computer science, programming, and software development. I worked on hands-on projects, overcame academic challenges, and developed key skills like problem-solving, time management, and teamwork. "
+        },
+        {
+            "type":"BCA (Bachelor of Computer Applications)",
+            "institution_name":"Govt. Degree College Bhoranj (Hamirpur)",
+            "year":"2019 - 2022",
+            "grade":" 7.78",
+            "about":"I have done my Graduation form Govt. Degree College Bhoranj, under HPU. During my BCA, I built a solid foundation in frontend development, gaining expertise in HTML, CSS, and JavaScript. I developed responsive, user-friendly websites and improved my skills in UI/UX design and web interactivity."
+        }
+        
+    ],
+    "copyright":"© 2023 Vishal Bhatia. All rights reserved.",
+    "social_media_links":[
+        {
+            "name":"Instagram",
+            "url":"https://www.instagram.com/_vishal_033/profilecard/?igsh=ZXQ3Y3oyN3NpZzE4"
+        },
+        {
+            "name":"Linked In",
+            "url":"https://www.linkedin.com/in/vishal-bhatia-v033/"
+        },
+        {
+            "name":"Git Hub",
+            "url":"https://github.com/VishalBhatia033"
+        }
+        
+    ]
+
+    
+
+}

@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Nunito-Regular'; /*a name to be used later*/
+    src: url('./fonts/Nunito-Regular.8dabfbe8f4354b65c8e5.woff2'); /*URL to font*/
+}
+@font-face {
+    font-family: 'Humane'; /*a name to be used later*/
+    src: url('./fonts/Humane-Bold.473c9479d8c2e5a51a25.ttf'); /*URL to font*/
+}
+@font-face {
+    font-family: 'Amulya-medium'; /*a name to be used later*/
+    src: url('./fonts/Amulya-Medium.0d825b25590b0bf1c694.woff2'); /*URL to font*/
+}
+@font-face {
+    font-family: 'Organetto'; /*a name to be used later*/
+    src: url('./fonts/Organetto-RegularCnd.99b9cb2d95b33ead7635.ttf'); /*URL to font*/
+}
+*{
+    font-family: 'Nunito-Regular';
+}
